@@ -108,6 +108,6 @@ t.write("我爱大脸猫", align="center",font=("微软雅黑", 22, "bold"))
 
 t.up()
 t.goto(0,-120)
-t.write("李家营小学", align="center",font=("微软雅黑", 16, "bold"))
+t.write("李家营小学", align="center",font=("方正舒体 常规", 16, "bold"))
 
 t.done()
